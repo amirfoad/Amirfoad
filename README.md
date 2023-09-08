@@ -1,4 +1,5 @@
-<code>var aboutMe = { 
+```javascript
+var aboutMe = { 
     name: "Amirfoad Ahmadi",
     profession: "Backend Developer",
     location: "Iran",
@@ -12,7 +13,7 @@
     tools: [Git, GitHub, Docker],
     Systems: [ Windows , Macos]
 }
-</code>
+``` 
 <!--
 **amirfoad/Amirfoad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
