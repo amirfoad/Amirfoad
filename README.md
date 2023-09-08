@@ -1,4 +1,17 @@
-### Hi there 👋
+var aboutMe = { 
+    name: "Amirfoad Ahmadi",
+    profession: "Backend Developer",
+    location: "Iran",
+    email : "amirfoadahmadi@gmail.com" ,
+    stack: {
+        backEnd: {
+        languages: [C#, SQL],
+        frameworks: [.netCore],
+        databases: [MongoDB , sqlserver]
+    }
+    tools: [Git, GitHub, Docker],
+    Systems: [ Windows , Macos]
+}
 
 <!--
 **amirfoad/Amirfoad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
