@@ -1,4 +1,8 @@
-```javascript
+
+<h1>Amirfoad Ahmadi's .NET Developer Portfolio</h1>
+<p></p>Welcome to my GitHub repository! This repository serves as a portfolio of my work as a mid-level .NET developer. Here, you'll find a collection of projects and code samples that demonstrate my skills and experience in the .NET ecosystem.</p>
+
+<!--```javascript
 var aboutMe = { 
     name: "Amirfoad Ahmadi",
     profession: "Backend Developer",
@@ -13,7 +17,7 @@ var aboutMe = {
     tools: [Git, GitHub, Docker],
     Systems: [ Windows , Macos]
 }
-``` 
+``` -->
 <!--
 **amirfoad/Amirfoad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
